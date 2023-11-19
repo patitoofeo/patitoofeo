@@ -3,7 +3,7 @@
 
 ### About Me
 - I am 18 years old and I am from Madrid, Spain.
-- I am an Intermediate Degree student of Microcomputer Systems and Networks.
+- I am an student of Microcomputer Systems and Networks.
 - I am a self-taught and highly creative person who seeks to learn and improve every day.
 - I enjoy working on some projects.
 
@@ -20,8 +20,8 @@
   <a href="https://github.com/IzzelAliz/Arclight"><img alt="Minecraft Badge" src="https://img.shields.io/badge/Minecraft-62B47A?logo=minecraft&logoColor=fff&style=flat-square"></a>
 
 ### Contact Me
-  <a href="discordapp.com/users/892829951877865502"><img alt="Discord Badge" src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=flat-square"></a>
-  <a href="https://www.instagram.com/patitoo.feo_/"><img alt="Instagram Badge" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=flat-square"></a>
+  ![Discord Badge](https://img.shields.io/badge/patito.feo-5865F2?logo=discord&logoColor=fff&style=flat-square)
+
 <br>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patitoofeo&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="patitoofeo" /> </p>
