@@ -2,8 +2,8 @@
 <h2>Informatic student 📝</h2>
 
 ### About Me
-- I am 18 years old and I am from Madrid, Spain.
-- I am an student of Microcomputer Systems and Networks.
+- I am 19 years old and I am from Madrid, Spain.
+- I am a student of Network Computer Systems Administrator.
 - I am a self-taught and highly creative person who seeks to learn and improve every day.
 - I enjoy working on some projects.
 
