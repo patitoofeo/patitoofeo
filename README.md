@@ -14,6 +14,7 @@
   ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat-square)
   ![Apache Badge](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=fff&style=flat-square)
   ![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=flat-square)
+  ![VirtualBox](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)
 
 ### Projects
   <a href="https://fivem.net/"><img alt="FiveM Badge" src="https://img.shields.io/badge/FiveM-F40552?logo=fivem&logoColor=fff&style=flat-square"></a>
