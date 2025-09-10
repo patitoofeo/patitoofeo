@@ -1,5 +1,5 @@
-<h1>Hello! I'm Emilio <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀</h1>
-<h2>Informatic student 📝</h2>
+<h1>Hello! I'm Emilio Martín <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀</h1>
+<h2>Informatic student 🖥️</h2> 
 
 ### About Me
 - I am 19 years old and I am from Madrid, Spain.
@@ -7,21 +7,29 @@
 - I am a self-taught and highly creative person who seeks to learn and improve every day.
 - I enjoy working on some projects.
 
+---
+
 ### Technologies
-  ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat-square)
-  ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat-square)
-  ![Lua Badge](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=fff&style=flat-square)
-  ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat-square)
-  ![Apache Badge](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=fff&style=flat-square)
-  ![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=flat-square)
+
+  ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![Lua Badge](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+  ![MySQL Badge](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Apache Badge](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white)
+  ![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
   ![VirtualBox](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)
 
 ### Projects
-  <a href="https://fivem.net/"><img alt="FiveM Badge" src="https://img.shields.io/badge/FiveM-F40552?logo=fivem&logoColor=fff&style=flat-square"></a>
+  ![FiveM](https://img.shields.io/badge/FiveM-F40552?style=for-the-badge&logo=fivem&logoColor=white)
   <a href="https://github.com/IzzelAliz/Arclight"><img alt="Minecraft Badge" src="https://img.shields.io/badge/Minecraft-62B47A?logo=minecraft&logoColor=fff&style=flat-square"></a>
 
-### Contact Me
-  ![Discord Badge](https://img.shields.io/badge/patito.feo-5865F2?logo=discord&logoColor=fff&style=flat-square)
+## 📫 Contact
+
+Discord - patito.feo
+
+Linkedin - Emilio Martin Torres
+
+
 
 <br>
 <br>
