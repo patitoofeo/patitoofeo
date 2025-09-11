@@ -48,6 +48,6 @@
 
 ## 📫 Contacto
 - **Discord:** `patito.feo`
-- **LinkedIn:** [Emilio Martín Torres](https://www.linkedin.com/in/emiliomartíntorres)
+- **LinkedIn:** [Emilio Martín](https://www.linkedin.com/in/emiliomartíntorres)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patitoofeo&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="patitoofeo" /> </p>
